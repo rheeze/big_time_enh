@@ -1,0 +1,487 @@
+{
+  "uuid": "c1d7ebc9b2824163988f50cfacb7bcd2",
+  "shortName": "Big Time",
+  "longName": "Big Time",
+  "companyName": "rheeze",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+        {
+          "type": "png",
+          "name": "IMAGE_MENU_ICON",
+          "file": "images/menu_icon_time_enh.png",
+          "menu_icon": true
+        },
+        {
+          "type": "font",
+          "name": "LIBERATION_13",
+          "file": "fonts/Liberation-Serif.ttf"
+        },
+        {
+          "type": "font",
+          "name": "ROBOTO_BOLD_16",
+          "file": "fonts/Roboto-Condensed-Bold.ttf"
+        },
+        {
+          "type": "font",
+          "name": "PURISA_12",
+          "file": "fonts/Purisa-Bold.ttf"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_0",
+          "file": "images/normal/num_0.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_1",
+          "file": "images/normal/num_1.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_2",
+          "file": "images/normal/num_2.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_3",
+          "file": "images/normal/num_3.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_4",
+          "file": "images/normal/num_4.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_5",
+          "file": "images/normal/num_5.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_6",
+          "file": "images/normal/num_6.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_7",
+          "file": "images/normal/num_7.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_8",
+          "file": "images/normal/num_8.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_A_9",
+          "file": "images/normal/num_9.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_0",
+          "file": "images/serifbold/num_0.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_1",
+          "file": "images/serifbold/num_1.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_2",
+          "file": "images/serifbold/num_2.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_3",
+          "file": "images/serifbold/num_3.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_4",
+          "file": "images/serifbold/num_4.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_5",
+          "file": "images/serifbold/num_5.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_6",
+          "file": "images/serifbold/num_6.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_7",
+          "file": "images/serifbold/num_7.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_8",
+          "file": "images/serifbold/num_8.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_B_9",
+          "file": "images/serifbold/num_9.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_0",
+          "file": "images/gothicbold/num_0.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_1",
+          "file": "images/gothicbold/num_1.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_2",
+          "file": "images/gothicbold/num_2.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_3",
+          "file": "images/gothicbold/num_3.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_4",
+          "file": "images/gothicbold/num_4.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_5",
+          "file": "images/gothicbold/num_5.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_6",
+          "file": "images/gothicbold/num_6.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_7",
+          "file": "images/gothicbold/num_7.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_8",
+          "file": "images/gothicbold/num_8.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_C_9",
+          "file": "images/gothicbold/num_9.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_0",
+          "file": "images/lcd/num_0.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_1",
+          "file": "images/lcd/num_1.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_2",
+          "file": "images/lcd/num_2.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_3",
+          "file": "images/lcd/num_3.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_4",
+          "file": "images/lcd/num_4.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_5",
+          "file": "images/lcd/num_5.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_6",
+          "file": "images/lcd/num_6.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_7",
+          "file": "images/lcd/num_7.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_8",
+          "file": "images/lcd/num_8.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_D_9",
+          "file": "images/lcd/num_9.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_0",
+          "file": "images/serif/num_0.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_1",
+          "file": "images/serif/num_1.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_2",
+          "file": "images/serif/num_2.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_3",
+          "file": "images/serif/num_3.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_4",
+          "file": "images/serif/num_4.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_5",
+          "file": "images/serif/num_5.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_6",
+          "file": "images/serif/num_6.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_7",
+          "file": "images/serif/num_7.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_8",
+          "file": "images/serif/num_8.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_E_9",
+          "file": "images/serif/num_9.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_0",
+          "file": "images/deja/num_0.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_1",
+          "file": "images/deja/num_1.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_2",
+          "file": "images/deja/num_2.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_3",
+          "file": "images/deja/num_3.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_4",
+          "file": "images/deja/num_4.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_5",
+          "file": "images/deja/num_5.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_6",
+          "file": "images/deja/num_6.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_7",
+          "file": "images/deja/num_7.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_8",
+          "file": "images/deja/num_8.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_F_9",
+          "file": "images/deja/num_9.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_0",
+          "file": "images/andclock/num_0.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_1",
+          "file": "images/andclock/num_1.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_2",
+          "file": "images/andclock/num_2.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_3",
+          "file": "images/andclock/num_3.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_4",
+          "file": "images/andclock/num_4.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_5",
+          "file": "images/andclock/num_5.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_6",
+          "file": "images/andclock/num_6.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_7",
+          "file": "images/andclock/num_7.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_8",
+          "file": "images/andclock/num_8.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_G_9",
+          "file": "images/andclock/num_9.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_0",
+          "file": "images/serifbold_inv/num_0.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_1",
+          "file": "images/serifbold_inv/num_1.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_2",
+          "file": "images/serifbold_inv/num_2.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_3",
+          "file": "images/serifbold_inv/num_3.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_4",
+          "file": "images/serifbold_inv/num_4.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_5",
+          "file": "images/serifbold_inv/num_5.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_6",
+          "file": "images/serifbold_inv/num_6.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_7",
+          "file": "images/serifbold_inv/num_7.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_8",
+          "file": "images/serifbold_inv/num_8.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_H_9",
+          "file": "images/serifbold_inv/num_9.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_0",
+          "file": "images/ubuntu/num_0.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_1",
+          "file": "images/ubuntu/num_1.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_2",
+          "file": "images/ubuntu/num_2.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_3",
+          "file": "images/ubuntu/num_3.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_4",
+          "file": "images/ubuntu/num_4.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_5",
+          "file": "images/ubuntu/num_5.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_6",
+          "file": "images/ubuntu/num_6.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_7",
+          "file": "images/ubuntu/num_7.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_8",
+          "file": "images/ubuntu/num_8.png"
+        },
+        {
+          "type": "png",
+          "name": "IMAGE_NUM_I_9",
+          "file": "images/ubuntu/num_9.png"
+        }
+    ]
+  }
+}
